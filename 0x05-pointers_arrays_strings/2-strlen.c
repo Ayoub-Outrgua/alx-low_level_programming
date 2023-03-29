@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 /**
  * _strlen - return the length of a string
  * Owned By Bwave
@@ -14,3 +14,4 @@ int _strlen(char *s)
 		a++;
 	return (a);
 }
+
